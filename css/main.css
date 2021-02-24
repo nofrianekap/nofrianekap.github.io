@@ -5,6 +5,10 @@ body {
     background-color: #eee;
 }
 
+.f13px {
+    font-size: 13px !important;
+}
+
 .t100 {
     font-weight: 100;
 }
