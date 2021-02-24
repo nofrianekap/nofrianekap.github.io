@@ -41,6 +41,10 @@ body {
     font-weight: 900;
 }
 
+.nav-item a {
+    font-size: 13px !important;
+}
+
 .nav-item a:hover {
     color: #006aff !important;
 }
